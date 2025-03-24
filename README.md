@@ -4,11 +4,11 @@
 
 #### Overview
 
-##### Elevate your web projects with our sleek and responsive Tailwind CSS Dashboard HTML Template. Designed for modern developers, this template offers a clean and intuitive interface, perfect for building admin panels, e-commerce dashboards, and web applications.
+#### Elevate your web projects with our sleek and responsive Tailwind CSS Dashboard HTML Template. Designed for modern developers, this template offers a clean and intuitive interface, perfect for building admin panels, e-commerce dashboards, and web applications.
 
-##### Featuring a variety of pre-designed components and customizable layouts, it ensures a seamless user experience across all devices. With easy integration and detailed documentation, you’ll save time and effort, focusing on what matters most—your product.
+#### Featuring a variety of pre-designed components and customizable layouts, it ensures a seamless user experience across all devices. With easy integration and detailed documentation, you’ll save time and effort, focusing on what matters most—your product.
 
-##### LMS Hub is a multi-purpose, developer-friendly Tailwind CSS template. Buy once and get lifetime updates for your product.
+#### LMS Hub is a multi-purpose, developer-friendly Tailwind CSS template. Buy once and get lifetime updates for your product.
 
 🚀 Features
 
