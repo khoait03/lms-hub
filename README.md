@@ -1,6 +1,6 @@
 ### LMS Hub – Tailwind CSS Admin Dashboard HTML Template
 
-#### DEMO: https://dreams-lms.vercel.app/
+#### DEMO: https://lms-hub.vercel.app
 
 #### Overview
 
